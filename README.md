@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Centeno</h1>
 <h3 align="center">A passionate FulStack developer from Buenos Aires</h3>
 
-- 🔭 I’m currently working on [Exploration and Discovery Technologies]([[https://github.com/mmariotti08/backSC/blob/MRubilarRiffo/index.js](https://exploration.mx/)](https://exploration.mx/))
+- 🔭 I’m currently working on [Exploration and Discovery Technologies](https://exploration.mx/)
 
 - 🌱 I’m currently learning **Typescript**
 
