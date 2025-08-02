@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Exploration and Discovery Technologies](https://exploration.mx/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React Native, Docker and Python**
 
 - 👯 I’m looking to collaborate on **the best developer team whit amazing projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **+5491137857337 - josemcentenoc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j0EYkBNPfsq1egJP2EajOE3aXG4ydeLh/view?usp=drive_link](https://drive.google.com/file/d/1j0EYkBNPfsq1egJP2EajOE3aXG4ydeLh/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oX7wiIaVGIFMVP48l7KssTa3cqxLJTIY/view?usp=drive_link](https://drive.google.com/file/d/1j0EYkBNPfsq1egJP2EajOE3aXG4ydeLh/view?usp=drive_link)
 
 - ⚡ Fun fact **People are most creative in the shower.**
 
